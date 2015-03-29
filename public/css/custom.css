@@ -1,0 +1,49 @@
+body{
+  font-family: arial,sans-serif;
+}
+.col-md-6{
+  padding:0;
+}
+.currency-converter{
+  margin-top: 20px;
+  margin-bottom: 5px;
+  box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.2);
+  padding: 10px;
+}
+.currency-value-from{
+  margin-bottom: 0px;
+  font-size: medium !important;
+  font-weight: lighter !important;
+  color: #878787 !important;
+
+}
+.currency-value-to{
+  margin-bottom: 20px;
+  font-size: 26px !important;
+  color: #212121 !important;
+    font-weight: lighter !important;
+}
+.disclaimer{
+  margin:0 !important;
+  position:absolute;
+  right:20px;
+  bottom:-20px;
+  padding:0;
+}
+.disclaimer a{
+  color: #878787 !important;
+  text-decoration: none;
+  font-size: 11px !important;
+}
+.form-control{
+  margin: 3px;
+  width: 120px !important;
+    text-align: right;
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+  .form-control{
+    width: 100% !important;
+  }
+}

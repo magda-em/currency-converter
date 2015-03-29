@@ -1,0 +1,104 @@
+[
+    {
+        "symbol": "$AU",
+        "name": "Australian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "AUD",
+        "name_plural": "AU dollars",
+        "rates": {
+                    "AUD": 1.0,
+                    "USD": 0.78,
+                    "EUR": 0.71,
+                    "GBP": 0.52,
+                    "PLN": 2.92,
+                    "CAD": 0.98 
+                }
+    },
+    {
+        "symbol": "$",
+        "name": "US Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "USD",
+        "name_plural": "US dollars",
+        "rates": {
+                    "AUD": 1.29,
+                    "USD": 1.0,
+                    "EUR": 0.92,
+                    "GBP": 0.67,
+                    "PLN": 3.76,
+                    "CAD": 1.26
+                }
+    },
+    {
+        "symbol": "€",
+        "name": "Euro",
+        "symbol_native": "€",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "EUR",
+        "name_plural": "euros",
+        "rates": {
+                    "AUD": 1.41,
+                    "USD": 1.09,
+                    "EUR": 1.0,
+                    "GBP": 0.73,
+                    "PLN": 4.1,
+                    "CAD": 1.37 
+                }
+    },
+    {
+        "symbol": "£",
+        "name": "British Pound Sterling",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GBP",
+        "name_plural": "British pounds sterling",
+        "rates": {
+                    "AUD": 1.92,
+                    "USD": 1.49,
+                    "EUR": 1.37,
+                    "GBP": 1.0,
+                    "PLN": 5.6,
+                    "CAD": 1.87 
+                }
+    },
+    {
+        "symbol": "zł",
+        "name": "Polish Zloty",
+        "symbol_native": "zł",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PLN",
+        "name_plural": "Polish zlotys",
+        "rates": {
+                    "AUD": 0.34,
+                    "USD": 0.27,
+                    "EUR": 0.24,
+                    "GBP": 0.18,
+                    "PLN": 1.0,
+                    "CAD": 0.34 
+                }
+    },
+    {
+        "symbol": "CA$",
+        "name": "Canadian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CAD",
+        "name_plural": "Canadian dollars",
+        "rates": {
+                    "AUD": 1.02,
+                    "USD": 0.79,
+                    "EUR": 0.73,
+                    "GBP": 0.53,
+                    "PLN": 2.98,
+                    "CAD": 1.0 
+                }
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "AUD": {
+    	"AUD": [{ "year": 2011, "rate": 1}, { "year": 2012, "rate": 1}, { "year": 2013, "rate": 1}, { "year": 2014, "rate": 1},{ "year": 2015, "rate": 1}],
+		"USD": [{ "year": 2011, "rate": 0.9}, { "year": 2012, "rate": 0.72}, { "year": 2013, "rate": 0.76}, { "year": 2014, "rate": 0.77},{ "year": 2015, "rate": 0.78}],
+        "EUR": [{ "year": 2011, "rate": 0.61}, { "year": 2012, "rate": 0.70}, { "year": 2013, "rate": 0.74}, { "year": 2014, "rate": 0.51},{ "year": 2015, "rate": 0.71}],
+        "GBP": [{ "year": 2011, "rate": 0.52}, { "year": 2012, "rate": 0.62}, { "year": 2013, "rate": 0.42}, { "year": 2014, "rate": 0.58},{ "year": 2015, "rate": 0.52}],
+        "PLN": [{ "year": 2011, "rate": 2.42}, { "year": 2012, "rate": 2.92}, { "year": 2013, "rate": 3.22}, { "year": 2014, "rate": 2.52},{ "year": 2015, "rate": 2.92}],
+        "CAD": [{ "year": 2011, "rate": 0.98}, { "year": 2012, "rate": 1.1}, { "year": 2013, "rate": 0.88}, { "year": 2014, "rate": 0.92},{ "year": 2015, "rate": 0.98}]
+    },
+    "USD": {
+    	"USD": [{ "year": 2011, "rate": 1}, { "year": 2012, "rate": 1}, { "year": 2013, "rate": 1}, { "year": 2014, "rate": 1},{ "year": 2015, "rate": 1}],
+		"AUD": [{ "year": 2011, "rate": 1.1}, { "year": 2012, "rate": 1.4}, { "year": 2013, "rate": 1.09}, { "year": 2014, "rate": 1.19},{ "year": 2015, "rate": 1.29}],
+        "EUR": [{ "year": 2011, "rate": 0.92}, { "year": 2012, "rate": 0.82}, { "year": 2013, "rate": 0.62}, { "year": 2014, "rate": 0.90},{ "year": 2015, "rate": 0.92}],
+        "GBP": [{ "year": 2011, "rate": 0.57}, { "year": 2012, "rate": 0.60}, { "year": 2013, "rate": 0.65}, { "year": 2014, "rate": 0.63},{ "year": 2015, "rate": 0.67}],
+        "PLN": [{ "year": 2011, "rate": 4.1}, { "year": 2012, "rate": 3.56}, { "year": 2013, "rate": 3.96}, { "year": 2014, "rate": 3.70},{ "year": 2015, "rate": 3.76}],
+        "CAD": [{ "year": 2011, "rate": 1.20}, { "year": 2012, "rate": 1.22}, { "year": 2013, "rate": 1.29}, { "year": 2014, "rate": 1.21},{ "year": 2015, "rate": 1.26}]
+    },
+    "EUR": {
+    	"EUR": [{ "year": 2011, "rate": 1}, { "year": 2012, "rate": 1}, { "year": 2013, "rate": 1}, { "year": 2014, "rate": 1},{ "year": 2015, "rate": 1}],
+		"AUD": [{ "year": 2011, "rate": 1.29}, { "year": 2012, "rate": 1.41}, { "year": 2013, "rate": 1.51}, { "year": 2014, "rate": 1.31},{ "year": 2015, "rate": 1.41}],
+        "USD": [{ "year": 2011, "rate": 1.09}, { "year": 2012, "rate": 1.29}, { "year": 2013, "rate": 1.29}, { "year": 2014, "rate": 1.00},{ "year": 2015, "rate": 1.09}],
+        "GBP": [{ "year": 2011, "rate": 0.71}, { "year": 2012, "rate": 0.74}, { "year": 2013, "rate": 0.79}, { "year": 2014, "rate": 0.78},{ "year": 2015, "rate": 0.73}],
+        "PLN": [{ "year": 2011, "rate": 4.1}, { "year": 2012, "rate": 4.0}, { "year": 2013, "rate": 4.3}, { "year": 2014, "rate": 4.2},{ "year": 2015, "rate": 4.1}],
+        "CAD": [{ "year": 2011, "rate": 1.37 }, { "year": 2012, "rate": 1.35 }, { "year": 2013, "rate": 1.31 }, { "year": 2014, "rate": 1.39 },{ "year": 2015, "rate": 1.37}]
+    },
+    "GBP": {
+    	"GBP": [{ "year": 2011, "rate": 1}, { "year": 2012, "rate": 1}, { "year": 2013, "rate": 1}, { "year": 2014, "rate": 1},{ "year": 2015, "rate": 1}],
+		"AUD": [{ "year": 2011, "rate": 1.92}, { "year": 2012, "rate": 1.98}, { "year": 2013, "rate": 1.93}, { "year": 2014, "rate": 1.97},{ "year": 2015, "rate": 1.92}],
+        "USD": [{ "year": 2011, "rate": 1.49}, { "year": 2012, "rate": 1.48}, { "year": 2013, "rate": 1.46}, { "year": 2014, "rate": 1.45},{ "year": 2015, "rate": 1.49}],
+        "EUR": [{ "year": 2011, "rate": 1.32}, { "year": 2012, "rate": 1.36}, { "year": 2013, "rate": 1.34}, { "year": 2014, "rate": 1.35},{ "year": 2015, "rate": 1.37}],
+        "PLN": [{ "year": 2011, "rate": 5.0}, { "year": 2012, "rate": 5.3}, { "year": 2013, "rate": 5.4}, { "year": 2014, "rate": 5.7},{ "year": 2015, "rate": 5.6}],
+        "CAD": [{ "year": 2011, "rate": 1.76}, { "year": 2012, "rate": 1.80}, { "year": 2013, "rate": 1.84}, { "year": 2014, "rate": 1.83},{ "year": 2015, "rate": 1.87}]
+    },
+    "PLN": {  
+    	"PLN": [{ "year": 2011, "rate": 1}, { "year": 2012, "rate": 1}, { "year": 2013, "rate": 1}, { "year": 2014, "rate": 1},{ "year": 2015, "rate": 1}],       
+		"AUD": [{ "year": 2011, "rate": 0.30}, { "year": 2012, "rate": 0.34}, { "year": 2013, "rate": 0.32}, { "year": 2014, "rate": 0.37},{ "year": 2015, "rate": 0.34}],
+        "USD": [{ "year": 2011, "rate": 0.32}, { "year": 2012, "rate": 0.27}, { "year": 2013, "rate": 0.21}, { "year": 2014, "rate": 0.23},{ "year": 2015, "rate": 0.27}],
+        "EUR": [{ "year": 2011, "rate": 0.24}, { "year": 2012, "rate": 0.23}, { "year": 2013, "rate": 0.28}, { "year": 2014, "rate": 0.20},{ "year": 2015, "rate": 0.24}],
+        "GBP": [{ "year": 2011, "rate": 0.10}, { "year": 2012, "rate": 0.18}, { "year": 2013, "rate": 0.28}, { "year": 2014, "rate": 0.13},{ "year": 2015, "rate": 0.18}],
+        "CAD": [{ "year": 2011, "rate": 0.30}, { "year": 2012, "rate": 0.31}, { "year": 2013, "rate": 0.32}, { "year": 2014, "rate": 0.30},{ "year": 2015, "rate": 0.34}]
+    },
+    "CAD": {
+     	"CAD": [{ "year": 2011, "rate": 1}, { "year": 2012, "rate": 1}, { "year": 2013, "rate": 1}, { "year": 2014, "rate": 1},{ "year": 2015, "rate": 1}],
+		"AUD": [{ "year": 2011, "rate": 1.02}, { "year": 2012, "rate": 1.22}, { "year": 2013, "rate": 1.09}, { "year": 2014, "rate": 1.12},{ "year": 2015, "rate": 1.02}],
+        "USD": [{ "year": 2011, "rate": 0.89}, { "year": 2012, "rate": 0.79}, { "year": 2013, "rate": 0.70}, { "year": 2014, "rate": 0.73},{ "year": 2015, "rate": 0.79}],
+        "EUR": [{ "year": 2011, "rate": 0.73}, { "year": 2012, "rate": 0.63}, { "year": 2013, "rate": 0.64}, { "year": 2014, "rate": 0.70},{ "year": 2015, "rate": 0.73}],
+        "GBP": [{ "year": 2011, "rate": 0.53}, { "year": 2012, "rate": 0.50}, { "year": 2013, "rate": 0.55}, { "year": 2014, "rate": 0.59},{ "year": 2015, "rate": 0.53}],
+        "PLN": [{ "year": 2011, "rate": 2.90}, { "year": 2012, "rate": 2.91}, { "year": 2013, "rate": 2.93}, { "year": 2014, "rate": 3.02},{ "year": 2015, "rate": 2.98}]
+    }
+}
